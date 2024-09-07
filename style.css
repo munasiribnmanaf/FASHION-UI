@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(255, 255, 255);
+    /* background-image: url(./img/grp.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background: position 90%; */
+}
+.one a{
+   font-size: 13px;
+   font-weight: bold;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.one{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.one img{
+    margin-left: 260px;
+    margin-top: -22px;
+
+}
+.head{
+    width: 83.5vw;
+    margin-left: 126px;
+
+}
+.two a{
+    margin-left: 230px;
+    font-size: 15px;
+    color: black;
+
+}
+.three p{
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: 25px;
+}
+.btn23{
+    border: 1px rgb(69, 123, 170) solid !important;
+    margin-left: 20px;
+    color: blue !important;
+}
+.btn24{
+    border: 1px rgb(255, 7, 7) solid !important;
+    margin-left: 20px;
+    color: rgb(255, 0, 0) !important;
+}
+.ph {
+    width: 83.5vw;
+    height: 25vh;
+  background-color: #f7f7f7;
+   margin-left: 126px;
+
+}
+.ph p{
+    text-align: center;
+    color: rgb(89, 110, 110);
+    font-weight: bold;
+    font-size: 30px;
+    
+    letter-spacing: 1px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.ph img{
+    width: 500px;
+    margin-left: 390px;
+    
+}
+/* .ph h1{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 110px;
+    letter-spacing: 2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: -20px;
+} */
+.pp img{
+    margin-left: 125px;
+    margin-top: -20px;
+}
+
+   
